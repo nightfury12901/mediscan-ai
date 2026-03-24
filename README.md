@@ -1,4 +1,4 @@
-# 🔬 MediScan AI - Skin Disease Detection System
+# 🔬Dermify AI - Skin Disease Detection System
 
 A full-stack AI-powered web application for automated skin disease detection using **Google Vertex AI**, built with **Next.js** and **Spring Boot**.
 
